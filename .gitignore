@@ -17,6 +17,8 @@ eggs/
 lib/
 lib64/
 parts/
+research/test_repo/*
+db/*
 sdist/
 var/
 wheels/
